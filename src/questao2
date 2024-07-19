@@ -1,0 +1,5 @@
+a) instancia um novo objeto funcionario
+b) porque os atributos são do tipo string e os modificadores de acesso não sao private
+c) não, nos requisitos da classe não é permitido o acesso direto desses atributos
+(eles deveriam ser marcados com private). Logo
+não deveria ser permitido tal feito.
